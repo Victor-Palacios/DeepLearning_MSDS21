@@ -69,19 +69,19 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 7/27: Sequence Models | | | See HW2 | |
- | 7/29: BERT/Transformers | | | Lab 6 | July 30th 11:59 PDT |
+ | 7/27: Sequence Models | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture6_Sequence_Models.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture6_Sequence_Models.ipynb) | See HW2 | |
+ | 7/29: BERT/Transformers | | |  | |
  
- HW2: Twin Neural Networks (Due 8/3 at 11:59pm Pacific Time) 
+ HW2: [RNNs and a Twin Neural Network](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Homework_2/Homework2.pdf) (Due 8/3 at 11:59pm Pacific Time) 
 
 **Week 5**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 8/3: Multi-Task Learning and More Imaging | | | See HW3 | |
- | 8/5: Either More NLP or Recommendation Systems| | | Lab 7 | August 6th 11:59 PDT |
+ | 8/5: Final Project Office Hours | | | | |
 
-HW3: Bounding Boxes (Due 8/11 at 11:59pm Pacific Time)
+HW3: Bounding Boxes (Due 8/10 at 11:59pm Pacific Time)
 
 **Week 6**
 
