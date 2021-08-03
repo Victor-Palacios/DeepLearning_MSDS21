@@ -70,7 +70,7 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 7/27: Sequence Models | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture6_Sequence_Models.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture6_Sequence_Models.ipynb) | See HW2 | |
- | 7/29: BERT/Transformers | | |  | |
+ | 7/29: BERT/Transformers | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture7_DrInterian_Attention.pdf), (by [Dr. Interian](https://github.com/yanneta))| |  | |
  
  HW2: [RNNs and a Twin Neural Network](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Homework_2/Homework2.pdf) (Due 8/3 at 11:59pm Pacific Time) 
 
@@ -78,16 +78,16 @@ HW1: [Recommendation Systems with a Feed Forward Neural Network](https://github.
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/3: Multi-Task Learning and More Imaging | | | See HW3 | |
+ | 8/3: Multi-Task Learning and More Imaging | [Slides](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Slides/Lecture8_More_Imaging.pdf) | [Notebook](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Notebooks/Lecture8_More_Imaging.ipynb) | See HW3 | |
  | 8/5: Final Project Office Hours | | | | |
 
-HW3: Bounding Boxes (Due 8/10 at 11:59pm Pacific Time)
+HW3: [Bounding Boxes](https://github.com/mgruddy/DeepLearning_MSDS21/blob/main/Assignments/Homework_3/Homework3.pdf) (Due 8/10 at 11:59pm Pacific Time)
 
 **Week 6**
 
 | Topic | Slides | In Class Code | Lab | Due Date |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | Lab 8 | August 13th 11:59 PDT |
+ | 8/10: More Topics: Style Transfer, GANs, Reinforcement Learning| | | | |
  | 8/12: Final Project Presentation| | | | |
 
  ### Important USF Dates
